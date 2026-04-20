@@ -1,5 +1,5 @@
-@"
-# Project 2 — Advanced Visuals Dashboard
+
+# Project 2 - Advanced Visuals Dashboard
 
 **USA Spending on Kansas Contracts & Grants (2020–2024)**  
 Advanced Power BI dashboard built on Project 1, adding multi-line KPI cards, a Funnel chart, and a Sankey diagram for deeper analytical storytelling.
@@ -63,4 +63,3 @@ Power BI Desktop | DAX | Power Query | Sankey Chart visual | USAspending.gov
 ---
 
 *BSAN-750: Data Visualization | Fall 2025 | Wichita State University*
-"@ | Out-File -FilePath "project2-advanced\README.md" -Encoding utf8
