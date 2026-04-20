@@ -1,5 +1,5 @@
 
-# Project 1 — Classic Visuals Dashboard
+# Project 1 - Classic Visuals Dashboard
 
 **USA Spending on Kansas Contracts & Grants (2020–2024)**  
 Classic Power BI dashboard using standard visuals to analyze federal HHS funding across Kansas.
