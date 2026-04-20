@@ -39,4 +39,3 @@ Federal spending analysis on U.S. Department of Health and Human Services (HHS) 
 ---
 
 *By Haribabu Ambati | MSBA, Wichita State University | BSAN-750: Data Visualization*
-"@ | Out-File -FilePath "README.md" -Encoding utf8
