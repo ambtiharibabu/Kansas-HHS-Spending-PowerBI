@@ -1,5 +1,5 @@
 
-# Kansas HHS Spending — Power BI Dashboard Portfolio
+# Kansas HHS Spending - Power BI Dashboard Portfolio
 
 Federal spending analysis on U.S. Department of Health and Human Services (HHS) contracts and grants in Kansas from 2020 to 2024, built as a two-phase Power BI dashboard project.
 
