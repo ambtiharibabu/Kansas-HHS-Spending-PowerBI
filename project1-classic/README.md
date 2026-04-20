@@ -1,4 +1,4 @@
-@"
+
 # Project 1 — Classic Visuals Dashboard
 
 **USA Spending on Kansas Contracts & Grants (2020–2024)**  
@@ -62,4 +62,3 @@ Power BI Desktop | DAX | Power Query | USAspending.gov
 ---
 
 *BSAN-750: Data Visualization | Fall 2025 | Wichita State University*
-"@ | Out-File -FilePath "project1-classic\README.md" -Encoding utf8
