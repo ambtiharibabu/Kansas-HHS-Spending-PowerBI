@@ -3,7 +3,7 @@
 
 Federal spending analysis on U.S. Department of Health and Human Services (HHS) contracts and grants in Kansas from 2020 to 2024, built as a two-phase Power BI dashboard project.
 
-**Data Source:** [USAspending.gov](https://www.usaspending.gov) — official U.S. government open data portal  
+**Data Source:** [USAspending.gov](https://www.usaspending.gov) - official U.S. government open data portal  
 **Dataset:** 12,542 records | 2020–2024 | Grants + Contracts | Kansas recipients  
 **Tools:** Power BI Desktop, DAX, Power Query  
 
