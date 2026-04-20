@@ -13,8 +13,8 @@ Federal spending analysis on U.S. Department of Health and Human Services (HHS) 
 
 | Folder | Description |
 |---|---|
-| `project1-classic/` | Classic dashboard — KPI cards, bar/column/donut charts, matrix, trend line |
-| `project2-advanced/` | Advanced dashboard — multi-line KPI cards, Funnel chart, Sankey diagram |
+| `project1-classic/` | Classic dashboard - KPI cards, bar/column/donut charts, matrix, trend line |
+| `project2-advanced/` | Advanced dashboard - multi-line KPI cards, Funnel chart, Sankey diagram |
 
 ---
 
